@@ -4,7 +4,7 @@
         "Remote KM04F/0252605"
     ],
     "commandsEncoding": "Base64",
-    "supportedController": "Broadlink",
+    "supportedController": "mqtt",
     "minTemperature": 16,
     "maxTemperature": 31,
     "precision": 1,
