@@ -3,8 +3,8 @@
     "supportedModels": [
         "Remote KM04F/0252605"
     ],
-    "commandsEncoding": "Base64",
-    "supportedController": "mqtt",
+    "commandsEncoding": "Raw",
+    "supportedController": "MQTT",
     "minTemperature": 16,
     "maxTemperature": 31,
     "precision": 1,
