@@ -208,6 +208,7 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 #### Mitsubishi Electric
 | Code                               | Supported Models                                                                                     | Controller |
 | ---------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------- |
+| [8900](../codes/climate/8900.json) | MSC-GA20VB (KM04F/0252605 Remote)                             | Broadlink    |
 | [1120](../codes/climate/1120.json) | MSZ-GL25VGD<br>MSZ-GL35VGD<br>MSZ-GL42VGD<br>MSZ-GL50VG<br>MSZ-GL60VGD<br>MSZ-GL71VGD<br>MSZ-GL80VGD | Broadlink  |
 | [1121](../codes/climate/1121.json) | MSZ-GA35VA                                                                                           | Broadlink  |
 | [1122](../codes/climate/1122.json) | MSZ-AP50VGKD                                                                                         | Broadlink  |
